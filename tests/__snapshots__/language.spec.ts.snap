@@ -1,0 +1,82 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Languages > supported - .go > can comment out code 1`] = `
+"// code
+"
+`;
+
+exports[`Languages > supported - .go > has a markdown mapping 1`] = `"go"`;
+
+exports[`Languages > supported - .hcl > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .hcl > has a markdown mapping 1`] = `"hcl"`;
+
+exports[`Languages > supported - .js > can comment out code 1`] = `
+"// code
+"
+`;
+
+exports[`Languages > supported - .js > has a markdown mapping 1`] = `"javascript"`;
+
+exports[`Languages > supported - .json > can comment out code 1`] = `""`;
+
+exports[`Languages > supported - .json > has a markdown mapping 1`] = `"json"`;
+
+exports[`Languages > supported - .py > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .py > has a markdown mapping 1`] = `"python"`;
+
+exports[`Languages > supported - .sh > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .sh > has a markdown mapping 1`] = `"bash"`;
+
+exports[`Languages > supported - .tf > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .tf > has a markdown mapping 1`] = `"terraform"`;
+
+exports[`Languages > supported - .tfstacks.hcl > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .tfstacks.hcl > has a markdown mapping 1`] = `"hcl"`;
+
+exports[`Languages > supported - .ts > can comment out code 1`] = `
+"// code
+"
+`;
+
+exports[`Languages > supported - .ts > has a markdown mapping 1`] = `"typescript"`;
+
+exports[`Languages > supported - .yaml > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .yaml > has a markdown mapping 1`] = `"yaml"`;
+
+exports[`Languages > supported - .yml > can comment out code 1`] = `
+"# code
+"
+`;
+
+exports[`Languages > supported - .yml > has a markdown mapping 1`] = `"yaml"`;
+
+exports[`Languages > unsupported > can comment out code 1`] = `
+"// code
+"
+`;
+
+exports[`Languages > unsupported > has a markdown mapping 1`] = `""`;
