@@ -1,7 +1,7 @@
 {
   "name": "remark-inline-local-code-snippets",
   "version": "1.0.0",
-  "description": "Remark plugin to inline GitHub code snippets",
+  "description": "Remark plugin to inline local code snippets",
   "type": "module",
   "exports": "./dist/esm/index.js",
   "main": "./dist/esm/index.js",

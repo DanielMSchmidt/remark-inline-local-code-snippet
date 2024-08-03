@@ -6,7 +6,7 @@
 [![typescript][badge-typescript]][typescript-url]
 [![License][badge-license]][github-license-url]
 
-This package is a [unified][unified] ([remark][remark]) plugin to replace links to a github code snippet with the code snippet itself.
+This package is a [unified][unified] ([remark][remark]) plugin to replace links to a local file & line numbers with the code snippet itself.
 
 ## Installation
 
